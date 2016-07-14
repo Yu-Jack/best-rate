@@ -1,4 +1,4 @@
-# Find the best rate ( TWD/JPY )
+# Find the best rate ( now for JPY/TWD )
 
 1. npm install
 2. Register a telegram bot
